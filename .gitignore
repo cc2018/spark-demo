@@ -26,3 +26,5 @@ output/*
 project/*
 target/*
 META-INF/*
+metastore_db/*
+spark-warehouse/*
